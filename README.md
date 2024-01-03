@@ -11,3 +11,11 @@ This repo his been put together to showcase the ability of the using deep-learni
 ## Alternatively :
 If you would like to get started right away with inference on an image. You may download the pretrained model. See below link -
 * [fakefacedetect_pretrained_model](https://drive.google.com/drive/folders/1KNxjyd-FAB5TQ3KYUIU-w-3XtJs8c1QF?usp=sharing) and use it in the inference section of the notebook.
+
+## Training stats :
+* Accuracy -
+![image](https://github.com/perpendicularai/imageclassification/assets/146530480/df14fb83-568b-478b-8394-2022b3409818)
+
+* Loss -
+![image](https://github.com/perpendicularai/imageclassification/assets/146530480/743fbaf9-58a8-49e9-befe-9e3f32507597)
+
