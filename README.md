@@ -10,4 +10,4 @@ This repo his been put together to showcase the ability of the using deep-learni
 
 ## Alternatively :
 If you would like to get started right away with inference on an image. You may download the pretrained model. See below link -
-`https://drive.google.com/drive/folders/1KNxjyd-FAB5TQ3KYUIU-w-3XtJs8c1QF` and use it in the inference section of the notebook.
+* `https://drive.google.com/drive/folders/1KNxjyd-FAB5TQ3KYUIU-w-3XtJs8c1QF` and use it in the inference section of the notebook.
