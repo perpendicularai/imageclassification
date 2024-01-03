@@ -6,7 +6,7 @@ This repo his been put together to showcase the ability of the using deep-learni
 * Download dataset - `https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces`
 *  Set train and test data paths in the notebook provided
 * Once model has been trained, run the following command to save the model to be used for inference `model.save('MODEL_DIRECTORY_NAME')`. This will save all the model files to your current directory in the directory name you provided.
-* A test image has been provided of someone that does not exist. The image was generated using a popular GAN. See https://github.com/perpendicularai/imageclassification/tree/main/test_image directory for more.
+* A test image has been provided of someone that does not exist. The image was generated using a popular GAN. See [test_image](https://github.com/perpendicularai/imageclassification/tree/main/test_image/) directory for more.
 
 ## Alternatively :
 If you would like to get started right away with inference on an image. You may download the pretrained model. See below link -
