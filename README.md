@@ -1,3 +1,7 @@
+![image](https://github.com/perpendicularai/imageclassification/assets/146530480/6938491a-8670-47a1-8cb8-aed6fcad5978)
+
+
+
 # Image Classification
 
 This repo his been put together to showcase the ability of the using deep-learning to train an image classificaiton model. The model in particular has been trained to detect between real and fake faces. This is ideal for locations that require a high degree of security, whether it be banks, airports, government buildings, schools to name a few. The dataset used to train the model is 4GB's in size. A link is provided below. The model was trained for 100 epochs on an Intel i5 CPU with 8GB's of RAM, and thus can be deployed on most systems. 
