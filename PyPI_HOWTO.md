@@ -2,7 +2,7 @@
 
 ## Usage :
 
-### - pip install fakeface-detector
+### - pip install fakefaceinf
 
 ### - import fakefaceinf as ffi
 ### - res = ffi.predict_and_process_image('/path/to/your/image/jpg')
