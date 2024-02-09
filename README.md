@@ -37,5 +37,5 @@ If you would like to get started right away with inference on an image. You may 
 
 ## Important Notes
 
-### - Please ensure that you create a directory called `models` to download and save the model from the following url : https://drive.google.com/drive/folders/1KNxjyd-FAB5TQ3KYUIU-w-3XtJs8c1QF and save it to the `models` directory. Without this step being being performed, the package will not work.
+### - Please ensure that you create a directory called `models` to download and save the model from the following url : https://drive.google.com/drive/folders/1KNxjyd-FAB5TQ3KYUIU-w-3XtJs8c1QF and save it to the `models` directory. Without this step being performed, the package will not work.
 
