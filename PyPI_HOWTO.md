@@ -1,9 +1,10 @@
 # A python package index module to detect face liveness in an image
 
 ## Usage :
-
+## Requirements
 ### - pip install fakefaceinf
 
+## Code
 ### - import fakefaceinf as ffi
 ### - res = ffi.predict_and_process_image('/path/to/your/image/jpg')
 ### - print(res)
