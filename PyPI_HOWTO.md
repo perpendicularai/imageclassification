@@ -5,9 +5,9 @@
 ### - pip install fakefaceinf
 
 ## Code
-### - import fakefaceinf as ffi
-### - res = ffi.predict_and_process_image('/path/to/your/image/jpg')
-### - print(res)
+`import fakefaceinf as ffi`
+`res = ffi.predict_and_process_image('/path/to/your/image/jpg')`
+`print(res)`
 
 
 ## Important Notes
