@@ -1,5 +1,5 @@
 # A python package index module to detect face liveness in an image.
-### This package is used in all the face-recognition software that Perpendicular AI builds.
+### This package is used in all of the face-recognition software that Perpendicular AI builds.
 
 ## Usage :
 ## Requirements
