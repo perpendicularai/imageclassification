@@ -13,8 +13,7 @@ This repo his been put together to showcase the ability of using deep-learning t
 * A test image has been provided of someone that does not exist. The image was generated using a popular GAN. See [test_image](https://github.com/perpendicularai/imageclassification/tree/main/test_image/) directory for more.
 
 ## Alternatively :
-If you would like to get started right away with inference on an image. You may download the pretrained model. See below link -
-* [fakefacedetect_pretrained_model](https://drive.google.com/drive/folders/1KNxjyd-FAB5TQ3KYUIU-w-3XtJs8c1QF?usp=sharing) and use it in the inference section of the notebook.
+If you would like to get started right away with inference on an image, see PYPI_HOWTO.md.
 
 ## Training stats :
 * Accuracy -
