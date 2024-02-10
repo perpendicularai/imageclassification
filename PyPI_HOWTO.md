@@ -1,4 +1,4 @@
-# A python program to detect face liveness in an image
+# A python package index module to detect face liveness in an image
 
 ## Usage :
 
