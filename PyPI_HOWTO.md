@@ -2,7 +2,7 @@
 
 ## Usage :
 ## Requirements
-### - pip install fakefaceinf
+* `pip install fakefaceinf`
 
 ## Code
 * `import fakefaceinf as ffi`
