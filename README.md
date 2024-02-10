@@ -13,7 +13,7 @@ This repo his been put together to showcase the ability of using deep-learning t
 * A test image has been provided of someone that does not exist. The image was generated using a popular GAN. See [test_image](https://github.com/perpendicularai/imageclassification/tree/main/test_image/) directory for more.
 
 ## Alternatively :
-If you would like to get started right away with inference on an image, see PYPI_HOWTO.md.
+If you would like to get started right away with inference on an image, see [PyPI_HOWTO.md](https://github.com/perpendicularai/imageclassification/blob/main/PyPI_HOWTO.md)
 
 ## Training stats :
 * Accuracy -
